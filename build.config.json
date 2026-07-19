@@ -1,0 +1,13 @@
+{
+  "app_name": "AlgebraStatsApp",
+  "entry": "main.py",
+  "web_dir": "web",
+  "icon": "assets/icon.ico",
+  "onefile": true,
+  "windowed": true,
+  "include_pywebview": true,
+  "output_dir": "build",
+  "extra_data": [],
+  "extra_pyinstaller_args": [],
+  "clean": true
+}
